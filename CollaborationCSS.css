@@ -1,12 +1,12 @@
 header {
-    color: blue;
+    color: rgb(204, 19, 29);
     font-size: 77px;
 }
 h1 {
-    color: red;
+    color: rgb(70, 175, 38);
     font-size: 53px;
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
 }
